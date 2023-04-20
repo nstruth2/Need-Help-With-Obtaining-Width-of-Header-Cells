@@ -1,0 +1,57 @@
+[23-Feb-2023 00:37:45 UTC] PHP Warning:  include(database.php): Failed to open stream: No such file or directory in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/save.php on line 2
+[23-Feb-2023 00:37:45 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/save.php on line 2
+[23-Feb-2023 00:37:45 UTC] PHP Warning:  Undefined variable $conn in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/save.php on line 14
+[23-Feb-2023 00:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/save.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/save.php on line 14
+[23-Feb-2023 01:08:20 UTC] PHP Parse error:  Unclosed '[' does not match ')' in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/show.php on line 24
+[23-Feb-2023 19:57:58 UTC] PHP Parse error:  syntax error, unexpected identifier "htmlspecialchars", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/Trying0Date/show.php on line 34
+[25-Feb-2023 00:16:34 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 11
+[25-Feb-2023 00:16:35 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 11
+[25-Feb-2023 00:17:15 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 12
+[25-Feb-2023 00:38:09 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 6
+[25-Feb-2023 00:38:11 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 6
+[25-Feb-2023 00:45:07 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 5
+[25-Feb-2023 15:35:25 UTC] PHP Parse error:  syntax error, unexpected token "{", expecting ")" in /home/gl8crvogfwoc/public_html/sites/ajaxsql/PreventSQLInjection2.24/save.php on line 14
+[27-Feb-2023 00:19:18 UTC] PHP Fatal error:  Uncaught Exception: Failed to parse time string (Nothing) at position 0 (N): The timezone could not be found in the database in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TimeMod2.26/show.php:36
+Stack trace:
+#0 /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TimeMod2.26/show.php(36): DateTime->__construct()
+#1 {main}
+  thrown in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TimeMod2.26/show.php on line 36
+[12-Mar-2023 18:07:09 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 130
+[13-Mar-2023 15:35:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 78
+[13-Mar-2023 15:35:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 78
+[13-Mar-2023 15:37:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 78
+[13-Mar-2023 15:37:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 78
+[13-Mar-2023 15:37:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/index.php on line 78
+[19-Mar-2023 15:01:53 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/show.php on line 13
+[19-Mar-2023 15:01:56 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/show.php on line 13
+[19-Mar-2023 15:03:59 UTC] PHP Parse error:  syntax error, unexpected identifier "overflow", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/show.php on line 11
+[19-Mar-2023 15:04:38 UTC] PHP Parse error:  syntax error, unexpected identifier "overflow", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/show.php on line 11
+[21-Mar-2023 15:09:43 UTC] PHP Parse error:  syntax error, unexpected identifier "scroller", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/LoggedinUsersCanPost/show.php on line 19
+[09-Apr-2023 19:17:03 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 25
+[09-Apr-2023 19:17:46 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 19:19:05 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 19:19:40 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 19:19:41 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:08:08 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:08:18 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:09:06 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:09:18 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:09:32 UTC] PHP Parse error:  syntax error, unexpected identifier "demoB", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingStickyHeader/show.php on line 18
+[09-Apr-2023 20:51:18 UTC] PHP Parse error:  syntax error, unexpected identifier "Freeze", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingParagraphSticky/show.php on line 25
+[09-Apr-2023 20:52:38 UTC] PHP Parse error:  syntax error, unexpected identifier "Freeze", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingParagraphSticky/show.php on line 25
+[09-Apr-2023 21:18:37 UTC] PHP Parse error:  syntax error, unexpected identifier "Freeze", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingParagraphSticky/show.php on line 25
+[09-Apr-2023 21:18:54 UTC] PHP Parse error:  syntax error, unexpected identifier "Freeze", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingParagraphSticky/show.php on line 25
+[09-Apr-2023 21:28:49 UTC] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TestingParagraphSticky/show.php on line 26
+[09-Apr-2023 23:50:03 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 19
+[09-Apr-2023 23:51:58 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 19
+[09-Apr-2023 23:54:43 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 19
+[09-Apr-2023 23:56:31 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 19
+[09-Apr-2023 23:56:32 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 19
+[10-Apr-2023 00:29:00 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 31
+[10-Apr-2023 00:29:35 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/TryingHeaderRowSticky/show.php on line 31
+[11-Apr-2023 17:42:50 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/Trying Fixed 4.11/show.php on line 30
+[20-Apr-2023 19:06:06 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/Trying Fixed 4.11/show.php on line 60
+[20-Apr-2023 19:15:47 UTC] PHP Parse error:  syntax error, unexpected identifier "id", expecting "," or ";" in /home/gl8crvogfwoc/public_html/sites/AJAXSQL/Trying Fixed 4.11/show.php on line 58
